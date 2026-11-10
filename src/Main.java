@@ -11,7 +11,7 @@ public class Main{
 			System.out.print("Hello"+ name + "!");
 		}
 		
-		System.out.print("Enter your age:");
+		System.out.print("Enter Your Age:");
 		int age=scanner.nextInt();
 		if (age<=70){
 			System.out.print("You are a senior😁");
