@@ -11,7 +11,7 @@ public class ATM {
 				+ "2.Withdraw money"
 				+ "3.Exit");
 		int choice=scanner.nextInt();
-		
+		//testing with git
 		
 		int amount=100000;
 	    if (choice==1) {
